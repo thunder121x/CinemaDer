@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330901458465",
+    "project_id": "cinemader-c6c79",
+    "storage_bucket": "cinemader-c6c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330901458465:android:a524678b1e04c67356dd60",
+        "android_client_info": {
+          "package_name": "com.example.cinemader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJrL86zP8kKwW_Dj556Q3lU-QjscMwZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

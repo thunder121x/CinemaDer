@@ -23,7 +23,16 @@ doc/api/
 *.js.deps
 *.js.map
 
+# Flutter-specific files
 .flutter-plugins
 .flutter-plugins-dependencies
 
+# macOS files
 .DS_Store
+
+# Firebase configuration file
+lib/firebase_options.dart
+
+# IntelliJ/Android Studio related
+.idea/
+*.iml
